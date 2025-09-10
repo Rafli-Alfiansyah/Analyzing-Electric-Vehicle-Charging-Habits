@@ -1,5 +1,7 @@
 # Analysis of Electric Vehicle Charging Habits
 
+![charging_station](https://github.com/user-attachments/assets/9c71e72c-45c5-4639-975b-9998eb64dd84)
+
 ## Understanding EV Charging Behavior
 
 As electric vehicles (EVs) become more popular, providing adequate charging infrastructure is crucial, especially in residential buildings. Many apartment complexes are now installing shared charging stations for their tenants, but this can lead to competition for limited resources.
